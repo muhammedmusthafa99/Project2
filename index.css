@@ -1,0 +1,68 @@
+.header{
+    background-color: midnightblue;
+}
+
+.inbox{
+    /* background-color: darkblue; */
+    height: 30px;
+    text-align: center;
+}
+.inbox1{
+    /* background-color: blue; */
+    height: 30px;
+    text-align: center;
+}
+.l1{
+    padding: 10px;
+    color: white;
+}
+.l2{
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.banner{
+    /* background-color: darkcyan;  */
+}
+.inbox2{
+    /* background-color: darkcyan;  */
+    height: 220px;
+    margin: 15px 20px;
+}
+.inbox3{
+    /* background-color: white;  */
+    height:400px;
+    margin: 15px 20px;
+    padding: 15px;
+    margin-top: 20px;
+    padding-top: 30px;
+}
+.contact_input{
+    width:100%;
+    padding: 10px;
+    border-width: 0px;
+    border-bottom:1px solid gray;
+}
+.inbox4{
+    background-color: white;
+    min-height: 350px;
+    /* border-radius: 50px; */
+    text-align: center;
+    border: 3px solid gray;
+    margin: 20px;
+}
+.sec2{
+    margin-top: 50px;
+}
+.img1{
+    /* border-radius: 40px; */
+}
+.bu{
+   /* margin-left: 250px; */
+   margin-top: 50px;
+   display: inline-block;
+   
+}
+body{
+    background-image: url("a11.jpg");
+}
